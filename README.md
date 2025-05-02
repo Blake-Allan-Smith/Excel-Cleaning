@@ -7,4 +7,7 @@ Raw Excel Sheet Preview:
 ![Raw Excel Sheet](https://github.com/Blake-Allan-Smith/Excel-Cleaning/releases/download/Screenshots/Screenshot.2025-05-01.210121.png)
 
 Cleaned Excel Sheet Preview:
-![Cleaned Excel Sheet]()
+![Cleaned Excel Sheet](https://github.com/Blake-Allan-Smith/Excel-Cleaning/releases/download/Screenshots/Screenshot.2025-05-01.210153.png)
+
+[Raw Excel Sheet Download]()
+[Cleaned Excel Sheet Download]()
