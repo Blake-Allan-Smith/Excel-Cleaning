@@ -4,7 +4,7 @@
 Basic cleaning of an excel sheet containing information on every President of the United States (S.No, prior positition, party, vice president, salary, etc.). The initial Excel sheet contained duplicate data, mispelled/incorrect data, unstandardized dates, and untrimmed data.
 
 Raw Excel Sheet Preview:
-![Raw Excel Sheet](https://github.com/Blake-Allan-Smith/Excel-Cleaning/releases/download/Screenshots/Screenshot.2025-05-01.210121.png)
+![Raw Excel Sheet](https://github.com/Blake-Allan-Smith/Excel-Cleaning/releases/download/Screenshots/Screenshot.2025-05-01.211622.png)
 
 Cleaned Excel Sheet Preview:
 ![Cleaned Excel Sheet](https://github.com/Blake-Allan-Smith/Excel-Cleaning/releases/download/Screenshots/Screenshot.2025-05-01.210153.png)
